@@ -1,18 +1,18 @@
 # Semester 8
 # SPPU Computer Engineering 2019 Pattern Final Year-Sem 2 Lab Assignments. (If this repo helped you, do star it! :)
-Update Package Index: Make sure your package index is up-to-date by running:
+# Update Package Index: Make sure your package index is up-to-date by running:
 bash
 Copy code
 `sudo apt update`
-Install pip: pip is a package management system used to install and manage software packages written in Python. If you don't have it installed, you can install it with:
+# Install pip: pip is a package management system used to install and manage software packages written in Python. If you don't have it installed, you can install it with:
 bash
 Copy code
 `sudo apt install python3-pip`
-Install Jupyter Notebook: Once pip is installed, you can use it to install Jupyter Notebook:
+# Install Jupyter Notebook: Once pip is installed, you can use it to install Jupyter Notebook:
 bash
 Copy code
 `sudo -H pip3 install jupyter`
-Run Jupyter Notebook: After installation, you can start Jupyter Notebook by running the following command in your terminal:
+# Run Jupyter Notebook: After installation, you can start Jupyter Notebook by running the following command in your terminal:
 bash
 Copy code
 `jupyter notebook`
